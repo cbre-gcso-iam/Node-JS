@@ -31,8 +31,6 @@ Wercker environment properties:
 ### 1.0.0
 
 - Initial version
-
 ## License
-
 The Universal Permissive License (UPL), Version 1.0
 
